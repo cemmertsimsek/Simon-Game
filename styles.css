@@ -1,4 +1,7 @@
-body {
+
+  
+  
+  body {
     text-align: center;
     background-color: #011F3F;
   }
@@ -52,3 +55,8 @@ body {
     background-color: grey;
   }
   
+  footer {
+    color: #DBEDF3;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 50px;
+  }
